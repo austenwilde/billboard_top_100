@@ -3,7 +3,9 @@
 one:
   artist_name: MyString
   artist_genre: MyString
+  billboard: one
 
 two:
   artist_name: MyString
   artist_genre: MyString
+  billboard: two

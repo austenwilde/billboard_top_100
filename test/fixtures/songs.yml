@@ -3,7 +3,9 @@
 one:
   song_name: MyString
   song_duration: 1.5
+  artist: one
 
 two:
   song_name: MyString
   song_duration: 1.5
+  artist: two
